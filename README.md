@@ -1,7 +1,5 @@
 # Resume_Analyzer
 
-# Resume Analyzer
-
 ## Overview
 Resume Analyzer is a simple tool built using Streamlit, NLTK, spaCy, and Scikit-learn. It helps job seekers improve their resumes by comparing them with a job description, analyzing skills, experience, education, achievements, and formatting, and generating an overall resume score.
 
